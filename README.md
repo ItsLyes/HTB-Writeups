@@ -8,7 +8,7 @@ Ce fichier README contient des exemples pratiques de Markdown (`.md`) pour t’a
 ## Table des matières
 
 - [Titres](#titres)  
-- [Texte formaté](#texte-formaté)  
+- [FTP](./courses/FTP.md)  
 - [Listes](#listes)  
 - [Blocs de code](#blocs-de-code)  
 - [Citations](#citations)  

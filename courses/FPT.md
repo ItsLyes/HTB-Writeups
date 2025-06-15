@@ -1,5 +1,7 @@
 # FPT Notes 
 
+
 ## Use lftp
 
-'lftp anonymous@IP'
+
+`lftp anonymous@IP`
